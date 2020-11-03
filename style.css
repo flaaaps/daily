@@ -10,6 +10,7 @@
   margin: 15px 0 0 15px;
   position: absolute;
   color: #fff;
+  width: 115px;
 }
 
 #time::before {
